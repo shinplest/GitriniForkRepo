@@ -1,2 +1,0 @@
-Hi...! I am Root. 
-I study Git for App launching.
